@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<script>
+function show(shown, hidden) {
+  document.getElementById(shown).style.display='block';
+  document.getElementById(hidden).style.display='none';
+  return false;
+}
+</script>
+</head>
+<body>
+  <body style="background-color:powderblue;">
+    <nav stlye= background-color:gray;">
+
+       <h1 style="text-align:center;"> Wings Of Glory Checklist</h1>                               
+                                       
+
+                                     <nav>
+  <ul>
+    <li><a href="WOG Images/WOG Fighters 1.jpg">Page 1</a></li>
+    <li><a href="WOG Images/WOG Fighters 2.jpg">Page 2</a></li>
+    <li><a href="WOG Images/WOG Fighters.jpg">View All</a></li>
+  </ul>
+</nav>
+                                             
+
+</body>
+</html>
