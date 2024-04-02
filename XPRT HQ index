@@ -26,7 +26,7 @@ body, html {height: 100%}
       <p><button onclick="document.getElementById('contact').style.display='block'" class="w3-button w3-black">Join</button></p>
   </div>
   <div class="w3-display-bottomleft w3-container">
-      <p class="w3-xlarge"><em>Lets Get Tactical</em></p>
+      <p class="w3-xlarge"><em>Lets Get Tactical!</em></p>
     <p class="w3-large"> <!--empty--> </p>
     
   </div>
